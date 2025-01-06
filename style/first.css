@@ -1,0 +1,11 @@
+.a{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    font-size: large;
+    color: greenyellow;
+    padding: 10px;
+}
+
+p{
+    background-color: aqua;
+}
